@@ -11,5 +11,29 @@
   </Folder>
   <Folder Name="/Practice2/">
     <Project Path="Practice2/Practice2.Task1/Practice2.Task1.csproj" />
+    <Project Path="Practice2/Practice2.Task10/Practice2.Task10.csproj" />
+    <Project Path="Practice2/Practice2.Task11/Practice2.Task11.csproj" />
+    <Project Path="Practice2/Practice2.Task12/Practice2.Task12.csproj" />
+    <Project Path="Practice2/Practice2.Task13/Practice2.Task13.csproj" />
+    <Project Path="Practice2/Practice2.Task14/Practice2.Task14.csproj" />
+    <Project Path="Practice2/Practice2.Task15/Practice2.Task15.csproj" />
+    <Project Path="Practice2/Practice2.Task16/Practice2.Task16.csproj" />
+    <Project Path="Practice2/Practice2.Task17/Practice2.Task17.csproj" />
+    <Project Path="Practice2/Practice2.Task18/Practice2.Task18.csproj" />
+    <Project Path="Practice2/Practice2.Task19/Practice2.Task19.csproj" />
+    <Project Path="Practice2/Practice2.Task2/Practice2.Task2.csproj" />
+    <Project Path="Practice2/Practice2.Task20/Practice2.Task20.csproj" />
+    <Project Path="Practice2/Practice2.Task21/Practice2.Task21.csproj" />
+    <Project Path="Practice2/Practice2.Task22/Practice2.Task22.csproj" />
+    <Project Path="Practice2/Practice2.Task23/Practice2.Task23.csproj" />
+    <Project Path="Practice2/Practice2.Task24/Practice2.Task24.csproj" />
+    <Project Path="Practice2/Practice2.Task25/Practice2.Task25.csproj" />
+    <Project Path="Practice2/Practice2.Task3/Practice2.Task3.csproj" />
+    <Project Path="Practice2/Practice2.Task4/Practice2.Task4.csproj" />
+    <Project Path="Practice2/Practice2.Task5/Practice2.Task5.csproj" />
+    <Project Path="Practice2/Practice2.Task6/Practice2.Task6.csproj" />
+    <Project Path="Practice2/Practice2.Task7/Practice2.Task7.csproj" />
+    <Project Path="Practice2/Practice2.Task8/Practice2.Task8.csproj" />
+    <Project Path="Practice2/Practice2.Task9/Practice2.Task9.csproj" />
   </Folder>
 </Solution>
