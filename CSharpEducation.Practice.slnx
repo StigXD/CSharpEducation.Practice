@@ -2,4 +2,7 @@
   <Folder Name="/Practice1/">
     <Project Path="Practice1/Task1/Task1.csproj" />
   </Folder>
+  <Folder Name="/Practice2/">
+    <Project Path="Practice2/Practice2.Task1/Practice2.Task1.csproj" />
+  </Folder>
 </Solution>
