@@ -4,6 +4,10 @@ public class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello, World!");
+        int age;
+        string name;
+        string companyName;
+        bool flag;
+        double weight;
     }
 }

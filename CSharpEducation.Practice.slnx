@@ -1,6 +1,13 @@
 <Solution>
   <Folder Name="/Practice1/">
-    <Project Path="Practice1/Task1/Task1.csproj" />
+    <Project Path="Practice1/Task.CSharpBase/Practice1.Task1A.csproj" />
+    <Project Path="Practice1/Task1/Practice1.Task1.csproj" />
+    <Project Path="Practice1/Task1B/Practice1.Task1B.csproj" />
+    <Project Path="Practice1/Task2/Practice1.Task2.csproj" />
+    <Project Path="Practice1/Task3/Practice1.Task3.csproj" />
+    <Project Path="Practice1/Task4/Practice1.Task4.csproj" />
+    <Project Path="Practice1/Task5/Practice1.Task5.csproj" />
+    <Project Path="Practice1/Task6/Practice1.Task6.csproj" />
   </Folder>
   <Folder Name="/Practice2/">
     <Project Path="Practice2/Practice2.Task1/Practice2.Task1.csproj" />
