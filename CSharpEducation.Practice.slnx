@@ -36,4 +36,7 @@
     <Project Path="Practice2/Practice2.Task8/Practice2.Task8.csproj" />
     <Project Path="Practice2/Practice2.Task9/Practice2.Task9.csproj" />
   </Folder>
+  <Folder Name="/Practice3/">
+    <Project Path="Practice3/Practice3.Task1/Practice3.Task1.csproj" />
+  </Folder>
 </Solution>
