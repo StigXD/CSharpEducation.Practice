@@ -36,6 +36,12 @@
     <Project Path="Practice2/Practice2.Task8/Practice2.Task8.csproj" />
     <Project Path="Practice2/Practice2.Task9/Practice2.Task9.csproj" />
   </Folder>
+  <Folder Name="/Practice3.2/">
+    <Project Path="Practice3.2/MathHelper/MathHelper.csproj" Id="25976b3b-15be-4b56-b39a-4dbb0c8e68d1" />
+    <Project Path="Practice3.2/MathHelperTest/MathHelperTest.csproj" Id="04854b2f-fbcf-4a24-81bf-c49ac918daa6" />
+    <Project Path="Practice3.2/Person/Person.csproj" Id="1bdbc7d2-43e6-49dc-9cba-89bf2797b6a5" />
+    <Project Path="Practice3.2/PersonTest/PersonTest.csproj" Id="749be934-e37a-41b0-82f4-b5325ff7a179" />
+  </Folder>
   <Folder Name="/Practice3/">
     <Project Path="Practice3/Practice3.Task1/Practice3.Task1.csproj" />
   </Folder>
