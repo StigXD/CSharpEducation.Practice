@@ -44,5 +44,15 @@
   </Folder>
   <Folder Name="/Practice3/">
     <Project Path="Practice3/Practice3.Task1/Practice3.Task1.csproj" />
+    <Project Path="Practice3/Practice3.Task10/Practice3.Task10.csproj" />
+    <Project Path="Practice3/Practice3.Task11/Practice3.Task11.csproj" />
+    <Project Path="Practice3/Practice3.Task2/Practice3.Task2.csproj" />
+    <Project Path="Practice3/Practice3.Task3/Practice3.Task3.csproj" Id="377125a9-6186-4c70-88a6-8a1e0a72252a" />
+    <Project Path="Practice3/Practice3.Task4/Practice3.Task4.csproj" Id="9ec60bb0-e0ad-4cac-acea-44011cee3542" />
+    <Project Path="Practice3/Practice3.Task5/Practice3.Task5.csproj" Id="d7060f2c-84fc-4dd4-8fbd-5ef24d3c6dea" />
+    <Project Path="Practice3/Practice3.Task6/Practice3.Task6.csproj" />
+    <Project Path="Practice3/Practice3.Task7/Practice3.Task7.csproj" />
+    <Project Path="Practice3/Practice3.Task8/Practice3.Task8.csproj" />
+    <Project Path="Practice3/Practice3.Task9/Practice3.Task9.csproj" />
   </Folder>
 </Solution>
